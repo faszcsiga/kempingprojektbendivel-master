@@ -1,0 +1,74 @@
+[
+  {
+    "helyId": 1,
+    "helyNev": "Panoráma 1",
+    "helyTipus": "Sátorhely",
+    "maxSzemely": 4,
+    "villany": true,
+    "vizCsatlakozas": true,
+    "arEjszakankent": 8500
+  },
+  {
+    "helyId": 2,
+    "helyNev": "Panoráma 2",
+    "helyTipus": "Sátorhely",
+    "maxSzemely": 4,
+    "villany": true,
+    "vizCsatlakozas": false,
+    "arEjszakankent": 7500
+  },
+  {
+    "helyId": 3,
+    "helyNev": "Tópart 1",
+    "helyTipus": "Lakókocsihely",
+    "maxSzemely": 5,
+    "villany": true,
+    "vizCsatlakozas": true,
+    "arEjszakankent": 12000
+  },
+  {
+    "helyId": 4,
+    "helyNev": "Tópart 2",
+    "helyTipus": "Lakókocsihely",
+    "maxSzemely": 5,
+    "villany": true,
+    "vizCsatlakozas": true,
+    "arEjszakankent": 12500
+  },
+  {
+    "helyId": 5,
+    "helyNev": "Erdőszéli 1",
+    "helyTipus": "Sátorhely",
+    "maxSzemely": 3,
+    "villany": false,
+    "vizCsatlakozas": false,
+    "arEjszakankent": 6000
+  },
+  {
+    "helyId": 6,
+    "helyNev": "Erdőszéli 2",
+    "helyTipus": "Sátorhely",
+    "maxSzemely": 3,
+    "villany": true,
+    "vizCsatlakozas": false,
+    "arEjszakankent": 7000
+  },
+  {
+    "helyId": 7,
+    "helyNev": "Családi 1",
+    "helyTipus": "Mobilház",
+    "maxSzemely": 6,
+    "villany": true,
+    "vizCsatlakozas": true,
+    "arEjszakankent": 22000
+  },
+  {
+    "helyId": 8,
+    "helyNev": "Családi 2",
+    "helyTipus": "Mobilház",
+    "maxSzemely": 6,
+    "villany": true,
+    "vizCsatlakozas": true,
+    "arEjszakankent": 24000
+  }
+]

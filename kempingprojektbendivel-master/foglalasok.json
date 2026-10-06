@@ -1,0 +1,202 @@
+[
+  {
+    "foglalasId": 1,
+    "helyId": 1,
+    "vendegNev": "Nagy Péter",
+    "vendegEmail": "nagy.peter@email.hu",
+    "erkezes": "2026-06-15",
+    "tavozas": "2026-06-18",
+    "vendegekSzama": 3,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 2,
+    "helyId": 2,
+    "vendegNev": "Kovács Anna",
+    "vendegEmail": "kovacs.anna@email.hu",
+    "erkezes": "2026-06-20",
+    "tavozas": "2026-06-23",
+    "vendegekSzama": 2,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 3,
+    "helyId": 3,
+    "vendegNev": "Szabó Gábor",
+    "vendegEmail": "szabo.gabor@email.hu",
+    "erkezes": "2026-07-01",
+    "tavozas": "2026-07-07",
+    "vendegekSzama": 4,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 4,
+    "helyId": 4,
+    "vendegNev": "Tóth Eszter",
+    "vendegEmail": "toth.eszter@email.hu",
+    "erkezes": "2026-07-05",
+    "tavozas": "2026-07-10",
+    "vendegekSzama": 5,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 5,
+    "helyId": 5,
+    "vendegNev": "Horváth Dávid",
+    "vendegEmail": "horvath.david@email.hu",
+    "erkezes": "2026-07-12",
+    "tavozas": "2026-07-15",
+    "vendegekSzama": 2,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 6,
+    "helyId": 6,
+    "vendegNev": "Varga Zoltán",
+    "vendegEmail": "varga.zoltan@email.hu",
+    "erkezes": "2026-07-18",
+    "tavozas": "2026-07-22",
+    "vendegekSzama": 3,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 7,
+    "helyId": 7,
+    "vendegNev": "Kiss Réka",
+    "vendegEmail": "kiss.reka@email.hu",
+    "erkezes": "2026-07-25",
+    "tavozas": "2026-07-30",
+    "vendegekSzama": 5,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 8,
+    "helyId": 8,
+    "vendegNev": "Molnár Bence",
+    "vendegEmail": "molnar.bence@email.hu",
+    "erkezes": "2026-08-01",
+    "tavozas": "2026-08-08",
+    "vendegekSzama": 6,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 9,
+    "helyId": 1,
+    "vendegNev": "Farkas Júlia",
+    "vendegEmail": "farkas.julia@email.hu",
+    "erkezes": "2026-08-10",
+    "tavozas": "2026-08-13",
+    "vendegekSzama": 2,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 10,
+    "helyId": 3,
+    "vendegNev": "Balogh Tamás",
+    "vendegEmail": "balogh.tamas@email.hu",
+    "erkezes": "2026-08-15",
+    "tavozas": "2026-08-20",
+    "vendegekSzama": 4,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 11,
+    "helyId": 5,
+    "vendegNev": "Papp László",
+    "vendegEmail": "papp.laszlo@email.hu",
+    "erkezes": "2026-08-18",
+    "tavozas": "2026-08-21",
+    "vendegekSzama": 3,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 12,
+    "helyId": 7,
+    "vendegNev": "Németh Laura",
+    "vendegEmail": "nemeth.laura@email.hu",
+    "erkezes": "2026-08-22",
+    "tavozas": "2026-08-27",
+    "vendegekSzama": 4,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 13,
+    "helyId": 2,
+    "vendegNev": "Lakatos Márk",
+    "vendegEmail": "lakatos.mark@email.hu",
+    "erkezes": "2026-08-25",
+    "tavozas": "2026-08-28",
+    "vendegekSzama": 2,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 14,
+    "helyId": 4,
+    "vendegNev": "Simon Katalin",
+    "vendegEmail": "simon.katalin@email.hu",
+    "erkezes": "2026-09-01",
+    "tavozas": "2026-09-06",
+    "vendegekSzama": 5,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 15,
+    "helyId": 6,
+    "vendegNev": "Takács András",
+    "vendegEmail": "takacs.andras@email.hu",
+    "erkezes": "2026-09-05",
+    "tavozas": "2026-09-08",
+    "vendegekSzama": 3,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 16,
+    "helyId": 8,
+    "vendegNev": "Szalai Dóra",
+    "vendegEmail": "szalai.dora@email.hu",
+    "erkezes": "2026-09-10",
+    "tavozas": "2026-09-15",
+    "vendegekSzama": 6,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 17,
+    "helyId": 1,
+    "vendegNev": "Vass Norbert",
+    "vendegEmail": "vass.norbert@email.hu",
+    "erkezes": "2026-09-18",
+    "tavozas": "2026-09-21",
+    "vendegekSzama": 4,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 18,
+    "helyId": 3,
+    "vendegNev": "Bíró Zsófia",
+    "vendegEmail": "biro.zsofia@email.hu",
+    "erkezes": "2026-09-20",
+    "tavozas": "2026-09-25",
+    "vendegekSzama": 4,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 19,
+    "helyId": 5,
+    "vendegNev": "Oláh Krisztián",
+    "vendegEmail": "olah.krisztian@email.hu",
+    "erkezes": "2026-09-22",
+    "tavozas": "2026-09-24",
+    "vendegekSzama": 2,
+    "allapot": "Foglalt"
+  },
+  {
+    "foglalasId": 20,
+    "helyId": 7,
+    "vendegNev": "Rácz Emese",
+    "vendegEmail": "racz.emese@email.hu",
+    "erkezes": "2026-09-26",
+    "tavozas": "2026-09-30",
+    "vendegekSzama": 5,
+    "allapot": "Foglalt"
+  }
+]
